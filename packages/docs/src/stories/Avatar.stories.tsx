@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/jaquelinepires.png',
     alt: 'Jaqueline Pires',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
