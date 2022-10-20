@@ -1,0 +1,2 @@
+import{A as t}from"./index.f61f9b24.js";import"./index.7de53d02.js";import"./iframe.7d5da1ae.js";import"./index.e4ffecc5.js";import"./jsx-runtime.bcafea50.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/jaquelinepires.png",alt:"Jaqueline Pires"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.720e90dd.js.map
