@@ -13,6 +13,7 @@ declare const colors: {
     readonly green500: "#00875F";
     readonly green700: "#015F43";
     readonly green900: "#00291D";
+    readonly test: "#FFF";
 };
 
 declare const fontSizes: {

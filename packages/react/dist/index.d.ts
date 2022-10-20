@@ -21,6 +21,7 @@ declare const Box: _stitches_react_types_styled_component.StyledComponent<"div",
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -229,6 +230,7 @@ declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", 
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -437,6 +439,7 @@ declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -643,6 +646,7 @@ declare const AvatarImage: _stitches_react_types_styled_component.StyledComponen
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -856,6 +860,7 @@ declare const Button: _stitches_react_types_styled_component.StyledComponent<"bu
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -1062,6 +1067,7 @@ declare const Input: _stitches_react_types_styled_component.StyledComponent<"inp
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -1273,6 +1279,7 @@ declare const TextArea: _stitches_react_types_styled_component.StyledComponent<"
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
@@ -1478,6 +1485,7 @@ declare const CheckboxContainer: _stitches_react_types_styled_component.StyledCo
         readonly green500: "#00875F";
         readonly green700: "#015F43";
         readonly green900: "#00291D";
+        readonly test: "#FFF";
     };
     fontSizes: {
         readonly xxs: "0.625rem";
